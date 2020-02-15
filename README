@@ -1,0 +1,2 @@
+Just a short python program that uses selenium to wreck the typing speed test at: https://typing-speed-test.aoeu.eu/
+Version2 is a bit more safe, while version1 may become too fast at some point, trip itself up and stop working
